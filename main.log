@@ -1,0 +1,48 @@
+/----------------------------------------------------------------/
+2023-02-10 05:24:10.464252
+hello_world
+()
+{}
+Hello World
+
+
+/----------------------------------------------------------------/
+2023-02-10 05:24:10.471541
+summator
+(2, 2)
+{}
+4
+
+
+/----------------------------------------------------------------/
+2023-02-10 05:24:10.471541
+div
+(6, 2)
+{}
+3.0
+
+
+/----------------------------------------------------------------/
+2023-02-10 05:24:10.471541
+summator
+(4.3,)
+{'b': 2.2}
+6.5
+
+
+/----------------------------------------------------------------/
+2023-02-10 05:24:10.472541
+summator
+()
+{'a': 0, 'b': 0}
+0
+
+
+/----------------------------------------------------------------/
+2023-02-10 05:24:10.480776
+iterate_pages
+('https://spb.hh.ru/search/vacancy?text=python&area=1&area=2', 'django', 'flask')
+{'num_pages': 10}
+[{'title': 'Backend разработчик (Python)', 'link': 'https://spb.hh.ru/vacancy/75780109?from=vacancy_search_list&query=python', 'salary': 'Зарплата не указана', 'employer': 'INSITECH Development', 'city': 'Москва'}, {'title': 'Backend разработчик (Python)', 'link': 'https://spb.hh.ru/vacancy/75780287?from=vacancy_search_list&query=python', 'salary': 'Зарплата не указана', 'employer': 'INSITECH Development', 'city': 'Санкт-Петербург'}, {'title': 'Senior Python Developer', 'link': 'https://spb.hh.ru/vacancy/76650700?from=vacancy_search_list&query=python', 'salary': '5\u202f000 – 6\u202f000 USD', 'employer': 'CLS Global', 'city': 'Москва'}, {'title': 'Middle Python-разработчик', 'link': 'https://spb.hh.ru/vacancy/75679088?from=vacancy_search_list&query=python', 'salary': '140\u202f000 – 250\u202f000 руб.', 'employer': 'AERODISK', 'city': 'Москва'}, {'title': 'Python-разработчик в ML', 'link': 'https://spb.hh.ru/vacancy/76717976?from=vacancy_search_list&query=python', 'salary': 'Зарплата не указана', 'employer': 'Нетология', 'city': 'Москва'}, {'title': 'ML Engineer', 'link': 'https://spb.hh.ru/vacancy/75959978?from=vacancy_search_list&query=python', 'salary': 'от 180\u202f000 руб.', 'employer': 'ООО\xa0Эрливидео', 'city': 'Москва'}, {'title': 'Преподаватель “Программирование на Python”', 'link': 'https://spb.hh.ru/vacancy/75827655?from=vacancy_search_list&query=python', 'salary': 'Зарплата не указана', 'employer': 'Mathshub', 'city': 'Москва'}, {'title': 'Python-разработчик', 'link': 'https://spb.hh.ru/vacancy/75700571?from=vacancy_search_list&query=python', 'salary': 'Зарплата не указана', 'employer': 'Сбер. IT', 'city': 'Москва'}, {'title': 'Senior Python Developer', 'link': 'https://spb.hh.ru/vacancy/76810983?from=vacancy_search_list&query=python', 'salary': 'Зарплата не указана', 'employer': 'ООО\xa0БОЛЬШАЯ ТРОЙКА', 'city': 'Москва'}, {'title': 'Senior Python разработчик высоконагруженных систем', 'link': 'https://spb.hh.ru/vacancy/76150366?from=vacancy_search_list&query=python', 'salary': 'до 270\u202f000 руб.', 'employer': 'ООО\xa0СмартЭкоСистема', 'city': 'Москва'}, {'title': 'Lead Python Developer', 'link': 'https://spb.hh.ru/vacancy/76150998?from=vacancy_search_list&query=python', 'salary': 'Зарплата не указана', 'employer': 'FunBox', 'city': 'Москва'}, {'title': 'Fullstack программист Python/JS (удалённо)', 'link': 'https://spb.hh.ru/vacancy/76443962?from=vacancy_search_list&query=python', 'salary': '120\u202f000 – 160\u202f000 руб.', 'employer': 'ООО\xa0Телеком и Микроэлектроник Индастриз', 'city': 'Санкт-Петербург'}, {'title': 'Backend-Developer Python (middle)', 'link': 'https://spb.hh.ru/vacancy/73244938?from=vacancy_search_list&query=python', 'salary': 'Зарплата не указана', 'employer': 'Онлайн-школа Тетрика', 'city': 'Санкт-Петербург'}, {'title': 'Middle/Senior Python Developer', 'link': 'https://spb.hh.ru/vacancy/76151291?from=vacancy_search_list&query=python', 'salary': 'Зарплата не указана', 'employer': 'FunBox', 'city': 'Москва'}, {'title': 'Python Developer', 'link': 'https://spb.hh.ru/vacancy/76482137?from=vacancy_search_list&query=python', 'salary': 'Зарплата не указана', 'employer': 'Aston', 'city': 'Москва'}, {'title': 'Python-разработчик в инфраструктурную группу', 'link': 'https://spb.hh.ru/vacancy/76417694?from=vacancy_search_list&query=python', 'salary': 'Зарплата не указана', 'employer': 'Rambler&Co', 'city': 'Москва'}]
+
+
