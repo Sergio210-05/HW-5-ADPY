@@ -1,8 +1,10 @@
-from logger_1 import test_1
+from logger_1 import test_1, logger
 from logger_2 import test_2
 from hw_parsing import iterate_pages
 import json
 
+
+iterate_pages = logger(iterate_pages)
 
 if __name__ == '__main__':
     test_1()

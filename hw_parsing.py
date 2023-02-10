@@ -85,7 +85,6 @@ def vacancy_info(vacancies_list, list_info, *key_words, usd=False):
     return list_info
 
 
-@logger
 def iterate_pages(url, *key_words, num_pages=None, usd=False):
     vacancies = []
     if num_pages is None:
